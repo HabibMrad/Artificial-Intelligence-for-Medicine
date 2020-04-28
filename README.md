@@ -1,1 +1,1 @@
-# Artificial-Intelligence-for-Medicine
+# Artificial Intelligence for Medicine
