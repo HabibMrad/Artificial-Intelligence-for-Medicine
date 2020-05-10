@@ -1,0 +1,11 @@
+numpy
+mxnet
+pydicom
+ipython 
+jupyter 
+matplotlib
+pillow
+pandas
+tensorflow
+opencv-python
+scikit-image
