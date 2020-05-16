@@ -4,6 +4,7 @@ pydicom
 ipython 
 jupyter 
 matplotlib
+seaborn
 pillow
 pandas
 tensorflow
