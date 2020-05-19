@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 def display_images(num_rows, num_cols, X, Y=None):
     fig, axis = plt.subplots(nrows=num_rows, ncols=num_cols,
                              figsize=(num_cols*4, 8))
@@ -13,3 +14,4 @@ def display_images(num_rows, num_cols, X, Y=None):
             counter += 1
     plt.tight_layout()
     plt.show()
+

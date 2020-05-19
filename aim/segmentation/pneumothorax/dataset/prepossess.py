@@ -117,3 +117,5 @@ def generate_dataset(glob_pattern, labels, input_size=1024, output_size=256,
 if __name__ == "__main__":
     x, y = generate_dataset('/Users/upul/Experiments/Artificial-Intelligence-for-Medicine/data/pneumothorax_segmentation/dicom-images-train/*/*/*.dcm',
                             '/Users/upul/Experiments/Artificial-Intelligence-for-Medicine/data/pneumothorax_segmentation/train-rle.csv')
+
+
